@@ -23,7 +23,7 @@ function App() {
               </Link>
             </div>
             <div className="md:w-1/2 mt-8 md:mt-0 md:ml-8">
-              <img src={import.meta.env.BASE_URL + "../src/assets/mindexpansion1.png"} alt="Algowords" className="w-100 h-auto object-cover" />
+              <img src={import.meta.env.BASE_URL + "./src/assets/mindexpansion1.png"} alt="Algowords" className="w-100 h-auto object-cover" />
             </div>
           </div>
         </main>
